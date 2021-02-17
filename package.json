@@ -1,0 +1,19 @@
+{
+  "name": "first-nodejs-project",
+  "version": "1.0.0",
+  "description": "First Node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahgul/first-nodejs-project.git"
+  },
+  "author": "shahgul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahgul/first-nodejs-project/issues"
+  },
+  "homepage": "https://github.com/shahgul/first-nodejs-project#readme"
+}
